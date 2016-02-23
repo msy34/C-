@@ -1,0 +1,2 @@
+# C-
+Something about inheritance
